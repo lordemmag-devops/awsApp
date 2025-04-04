@@ -1,2 +1,2 @@
 # awsApp
-aws application
+This is my first app deployed to AWS
